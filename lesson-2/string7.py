@@ -1,0 +1,5 @@
+sentence=input('Enter a sentence:')
+replaced=input('Enter a word to raplace:')
+replacement=input('Enter a word to raplace:')
+new_sentence=sentence.replace(replaced,replacement)
+print(new_sentence)
